@@ -1,0 +1,6 @@
+{
+  "name": "Jelajah Sejarah Sulawesi Selatan: Petualangan Penjaga Warisan Budaya",
+  "description": "Game edukasi interaktif IPAS Kelas V SD Fase C Bab 5: Daerahku yang Bersejarah, menjelajahi warisan budaya, tokoh, kerajaan, dan pelestarian sejarah Sulawesi Selatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
